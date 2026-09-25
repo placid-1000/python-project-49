@@ -34,6 +34,14 @@ brain-even
 
 [![asciicast](https://asciinema.org/a/YNBCRjD6kM41JVMX.svg)](https://asciinema.org/a/YNBCRjD6kM41JVMX)
 
+Запуск игры «Калькулятор»:
+
+```bash
+brain-calc
+```
+
+[![asciicast](https://asciinema.org/a/N6kxANAtIUg8oapZ.svg)](https://asciinema.org/a/N6kxANAtIUg8oapZ)
+
 ---
 
 <details>
