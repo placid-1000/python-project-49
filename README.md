@@ -13,8 +13,6 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
-
 ```bash
 git clone https://github.com/placid-1000/python-project-49.git
 cd python-project-49
@@ -22,7 +20,19 @@ cd python-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+Установка пакета:
+
+```bash
+uv tool install --force dist/hexlet_code-0.1.1-py3-none-any.whl
+```
+
+Запуск игры «Проверка на чётность»:
+
+```bash
+brain-even
+```
+
+[![asciicast](https://asciinema.org/a/YNBCRjD6kM41JVMX.svg)](https://asciinema.org/a/YNBCRjD6kM41JVMX)
 
 ---
 
