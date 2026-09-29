@@ -1,6 +1,6 @@
 # Игры разума (Python)
 
-[![hexlet-check](https://github.com/placid-1000/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/placid-1000/python-project-49/actions)
+[![hexlet-check](https://github.com/placid-1000/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/placid-1000/python-project-49)
 
 Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
 
@@ -57,6 +57,14 @@ brain-progression
 ```
 
 [![asciicast](https://asciinema.org/a/7RWT2gb591bZTagT.svg)](https://asciinema.org/a/7RWT2gb591bZTagT)
+
+Запуск игры «Простое ли число?»:
+
+```bash
+brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/x8xR4CWnFwdKfiwJ.svg)](https://asciinema.org/a/x8xR4CWnFwdKfiwJ)
 
 ---
 
