@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 *.save
+.ruff_cache/
+dist/
+*.egg-info/
