@@ -42,6 +42,14 @@ brain-calc
 
 [![asciicast](https://asciinema.org/a/N6kxANAtIUg8oapZ.svg)](https://asciinema.org/a/N6kxANAtIUg8oapZ)
 
+Запуск игры «НОД»:
+
+```bash
+brain-gcd
+```
+
+[![asciicast](https://asciinema.org/a/5XAvPBtABVn9SWdg.svg)](https://asciinema.org/a/5XAvPBtABVn9SWdg)
+
 ---
 
 <details>
