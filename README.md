@@ -50,6 +50,14 @@ brain-gcd
 
 [![asciicast](https://asciinema.org/a/5XAvPBtABVn9SWdg.svg)](https://asciinema.org/a/5XAvPBtABVn9SWdg)
 
+Запуск игры «Арифметическая прогрессия»:
+
+```bash
+brain-progression
+```
+
+[![asciicast](https://asciinema.org/a/7RWT2gb591bZTagT.svg)](https://asciinema.org/a/7RWT2gb591bZTagT)
+
 ---
 
 <details>
