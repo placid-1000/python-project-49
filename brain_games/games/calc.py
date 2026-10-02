@@ -4,19 +4,19 @@ DESCRIPTION = 'What is the result of the expression?'
 
 
 def generate_round():
-    a = random.randint(1, 100)
-    b = random.randint(1, 100)
+    first_number = random.randint(1, 100)
+    second_number = random.randint(1, 100)
     operations = ['+', '-', '*']
     operation = random.choice(operations)
 
-    question = f'{a} {operation} {b}'
+    question = f'{first_number} {operation} {second_number}'
 
     match operation:
         case '+':
-            answer = str(a + b)
+            answer = str(first_number + second_number)
         case '-':
-            answer = str(a - b)
+            answer = str(first_number - second_number)
         case '*':
-            answer = str(a * b)
+            answer = str(first_number * second_number)
 
     return question, answer
